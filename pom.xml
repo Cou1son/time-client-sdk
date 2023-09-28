@@ -8,7 +8,7 @@
         <version>2.7.16</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>io.github</groupId>
+    <groupId>io.github.timeclientsdk</groupId>
     <artifactId>time-client-sdk</artifactId>
     <version>0.0.5</version>
     <name>time-client-sdk</name>
